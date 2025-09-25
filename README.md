@@ -4,7 +4,7 @@ Projeto BusNext:
 Nosso projeto consiste em uma análise que utiliza dados históricos para segmentar os clientes e prever sua próxima compra, usando estatistica e análise comportamental, permitindo identificar padrões de consumo e estimar onde cada cliente tende a realizar uma nova compra.
 
 
-Pré-requisitos
+Acesso aos arquivos:
 Ao baixar o arquivo .zip é necessário descompactá-lo para ter acesso ao pdf com a apresentação da solução, onde dentro do slide está o link do dashboard, e o arquivo .ipynb onde está as análises e previsões realizadas.
 
 
