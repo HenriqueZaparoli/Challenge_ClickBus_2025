@@ -7,25 +7,11 @@ A solução combina estatística e análise comportamental para identificar padr
 
 O objetivo é apoiar estratégias de negócio como:
 
-aumento da conversão de vendas
-
-melhor segmentação de clientes
-
-tomada de decisão baseada em dados
-
-identificação de padrões de comportamento de compra
+aumento da conversão de vendas, melhor segmentação de clientes, tomada de decisão baseada em dados, identificação de padrões de comportamento de compra
 
 Tecnologias Utilizadas
 
-Python
-
-Análise Estatística
-
-Jupyter Notebook
-
-Power BI
-
-Análise de Dados
+Python, Análise Estatística, Jupyter Notebook, Power BI, Análise de Dados
 
 Após baixar o arquivo .zip, é necessário descompactar os arquivos para acessar os materiais do projeto.
 
